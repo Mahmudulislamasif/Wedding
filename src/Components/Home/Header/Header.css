@@ -1,0 +1,11 @@
+.header-class 
+{
+    background-image: url('../../../Assets/Background.jpg');
+    height: 250px;
+    border-radius: 40px;
+    margin-top: 20px;
+}
+.header-class h1{
+    color: white;
+    padding-top: 20px;
+}
